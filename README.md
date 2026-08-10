@@ -29,6 +29,8 @@
 
 ### Books
 * [Red Team Engineering: The Art of Building Offensive Tools and Infrastructure](https://www.amazon.com/Red-Team-Engineering-Offensive-Infrastructure/dp/1718504268)
+* [RTFM: Red Team Field Manual v2](https://www.amazon.com/RTFM-Red-Team-Field-Manual/dp/1075091837)
+* [Evasion Engineering: Building Custom Red Team Tools for Modern Defenses](https://www.amazon.com/Evasion-Engineering-Building-Custom-Defenses/dp/1718505043)
 
 ### Videos
 
