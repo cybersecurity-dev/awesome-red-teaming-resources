@@ -37,11 +37,12 @@
 #### Video Series
 
 ### Certifications
+- [GIAC Red Team Professional (`GRTP`)](https://www.giac.org/certifications/red-team-professional-grtp)
 - [OSAI by OffSec](https://help.offsec.com/hc/articles/46593096734612-OSAI-Exam-Guide)
 - [OSAI+ by OffSec](https://help.offsec.com/hc/articles/46593095198740-OSAI-Advanced-AI-Red-Teaming-AI-300-FAQ)
     - [Advanced AI Red Teaming by OffSec](https://www.offsec.com/courses/ai-300/)
 - [OSCP+ by OffSec](https://help.offsec.com/hc//articles/4412170923924-OSCP-Exam-FAQ)
-    - [Penetration Testing with Kali Linux by OffSec](https://www.offsec.com/courses/pen-200/) 
+    - [Penetration Testing with Kali Linux by OffSec](https://www.offsec.com/courses/pen-200/)
 
 ##
 
