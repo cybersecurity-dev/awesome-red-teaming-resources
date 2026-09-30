@@ -436,6 +436,7 @@ timeline
 
 ### [↑](#-contents) AI-powered Assistant Tools
  - [Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team.
+ - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform where an LLM orchestrates specialist agents and offensive tools over MCP and proves each finding with a real exploit.
  - [DeepTeam](https://github.com/confident-ai/deepteam) - [DeepTeam](https://trydeepteam.com/) is a framework to red team LLMs and AI agents.
  
 ##
